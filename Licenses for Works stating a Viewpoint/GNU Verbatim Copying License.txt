@@ -1,0 +1,7 @@
+The standard copyright terms for GNU web pages is now the Creative Commons Attribution-NoDerivs 4.0 International License. It used to be (and for a few pages still is):
+
+Verbatim copying and distribution of this entire article are permitted worldwide, without royalty, in any medium, provided this notice is preserved.
+
+Please note the following commentary about this “verbatim license” by Eben Moglen:
+
+“Our intention in using the phrase ‘verbatim copying in any medium’ is not to require retention of page headings and footers or other formatting features. Retention of weblinks in both hyperlinked and non-hyperlinked media (as notes or some other form of printed URL in non-HTML media) is required.”
