@@ -1,1 +1,0 @@
-This is the disjunction of the Netscape Public License and the GNU GPL. Because of that, it is a free software license, compatible with the GNU GPL, but not a strong copyleft.
